@@ -1,4 +1,4 @@
-**What is Time Complexity?**
+>What is Time Complexity?
 
 The time complexity, computational complexity, or temporal complexity describes the amount of time necessary to execute an algorithm. 
 It is not a measure of the actual time taken to run an algorithm; instead, it is a measure of how the time taken scales with changes in the 
