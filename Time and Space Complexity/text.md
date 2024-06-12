@@ -1,19 +1,16 @@
 **What is Time Complexity?**
 
-The time complexity, computational complexity, or temporal complexity describes the amount of time necessary to execute an algorithm. 
-It is not a measure of the actual time taken to run an algorithm; instead, it is a measure of how the time taken scales with changes in the 
-input length. As a result, the size and magnitude of the processed data have a significant impact. Moreover, it also aids in defining an 
-algorithm's usefulness and evaluating its performance.
+>The time complexity, computational complexity, or temporal complexity describes the amount of time necessary to execute an algorithm. It is not a measure of the actual time taken to run an algorithm; instead, it is a measure of how the time taken scales with changes in the input length. As a result, the size and magnitude of the processed data have a significant impact. Moreover, it also aids in defining an algorithm's usefulness and evaluating its performance.
 
 
-What is Space Complexity?
-The overall amount of memory or space utilized by an algorithm/program, including the space of input values for execution, is called
-space complexity. To determine space complexity, simply compute how much space the variables in an algorithm/a program take up.
+**What is Space Complexity?**
+
+>The overall amount of memory or space utilized by an algorithm/program, including the space of input values for execution, is called space complexity. To determine space complexity, simply compute how much space the variables in an algorithm/a program take up.
 
 
-Understanding the common time and space complexities of various data structures and algorithms is essential for efficient problem-solving.
+**Understanding the common time and space complexities of various data structures and algorithms is essential for efficient problem-solving.**
 
-Time Complexities:
+**Time Complexities:**
 
 - Constant Time: O(1)
 - Linear Time: O(n)
@@ -22,7 +19,7 @@ Time Complexities:
 - Exponential Time: O(2^n)
 
 
-Space Complexities:
+**Space Complexities:**
 
 - Constant Space: O(1)
 - Linear Space: O(n)
@@ -30,7 +27,7 @@ Space Complexities:
 - Exponential Space: O(2^n)
 
 
-Examples of each common time complexity
+**Examples of each common time complexity**
 
 O(n!) [Factorial time]: Permutations of 1 … n
 O(2n) [Exponential time]: Exhaust all subsets of an array of size n
@@ -42,7 +39,7 @@ O(log n) [Logarithmic time]: Binary Search, finding GCD (Greatest Common Divisor
 O(1) [Constant time]: Calculation (e.g. Solving linear equations in one unknown)
 
 
-Node:
+**Note:**
 
 Observe that 1 ≤ n, c ≤ 109. Referring to the information above, the program’s time complexity should be either O(log n) or O(1). 
 Since no O(1) solution exists, we conclude that binary search must be used.
@@ -52,7 +49,7 @@ is required. Therefore, O(n log n) is the correct solution of this problem.Notic
 It means that a O(n2) solution can solve it. We simply need to simulate the robot’s moves.
 
 
-How to determine the solution of a problem by looking at its constraints?
+**How to determine the solution of a problem by looking at its constraints?**
 
 By looking at the constraints of a problem, we can often "guess" the solution.
 
