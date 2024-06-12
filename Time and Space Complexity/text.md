@@ -11,24 +11,24 @@
 **Understanding the common time and space complexities of various data structures and algorithms is essential for efficient problem-solving.**
 
 **Time Complexities:**
-'''
+```
 - Constant Time: O(1)
 - Linear Time: O(n)
 - Logarithmic Time: O(log n)
 - Quadratic Time: O(n^2)
 - Exponential Time: O(2^n)
-'''
+```
 
 **Space Complexities:**
-'''
+```
 - Constant Space: O(1)
 - Linear Space: O(n)
 - Quadratic Space: O(n^2)
 - Exponential Space: O(2^n)
-'''
+```
 
 **Examples of each common time complexity**
-'''
+```
 O(n!) [Factorial time]: Permutations of 1 … n
 O(2n) [Exponential time]: Exhaust all subsets of an array of size n
 O(n3) [Cubic time]: Exhaust all triangles with side length less than n
@@ -37,7 +37,7 @@ O(n log n) [Linearithmic time]: Fast comparison-based sorting (e.g. Merge Sort)
 O(n) [Linear time]: Linear Search (Finding maximum/minimum element in a 1D array), Counting Sort
 O(log n) [Logarithmic time]: Binary Search, finding GCD (Greatest Common Divisor) using Euclidean Algorithm
 O(1) [Constant time]: Calculation (e.g. Solving linear equations in one unknown)
-'''
+```
 
 **Note:**
 
