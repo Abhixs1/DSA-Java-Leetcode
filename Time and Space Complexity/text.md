@@ -68,4 +68,5 @@ If n ≤ 106, the time complexity can be O(n log n).
 If n ≤ 108, the time complexity can be O(n).
 If n > 108, the time complexity can be O(log n) or O(1).\
 
+![2](https://github.com/Abhixs1/DSA-Java-Leetcode/assets/100253637/bae6b0c4-bc86-4e31-92c3-9911f53fddc1)
 
