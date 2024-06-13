@@ -7,24 +7,26 @@
 
 >The overall amount of memory or space utilized by an algorithm/program, including the space of input values for execution, is called space complexity. To determine space complexity, simply compute how much space the variables in an algorithm/a program take up.
 
+![1](https://github.com/Abhixs1/DSA-Java-Leetcode/assets/100253637/594c6b25-710c-41ef-b854-4a8066ec2596)
+
 
 **Understanding the common time and space complexities of various data structures and algorithms is essential for efficient problem-solving.**
 
 **Time Complexities:**
 ```
-- Constant Time: O(1)
-- Linear Time: O(n)
-- Logarithmic Time: O(log n)
-- Quadratic Time: O(n^2)
-- Exponential Time: O(2^n)
+Constant Time: O(1)
+Linear Time: O(n)
+Logarithmic Time: O(log n)
+Quadratic Time: O(n^2)
+Exponential Time: O(2^n)
 ```
 
 **Space Complexities:**
 ```
-- Constant Space: O(1)
-- Linear Space: O(n)
-- Quadratic Space: O(n^2)
-- Exponential Space: O(2^n)
+Constant Space: O(1)
+Linear Space: O(n)
+Quadratic Space: O(n^2)
+Exponential Space: O(2^n)
 ```
 
 **Examples of each common time complexity**
